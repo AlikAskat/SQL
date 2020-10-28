@@ -1,2 +1,4 @@
-package ru.netology;public class DbInteraction {
+package ru.netology;
+
+public class DbInteraction {
 }
